@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @201b051
-- 👀 I’m interested in Developing 
+- 👀 I’m interested in Development 
 - 🌱 I’m currently learning git & github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
